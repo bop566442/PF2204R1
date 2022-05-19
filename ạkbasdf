@@ -1,0 +1,16 @@
+begin
+    input a
+    input b
+    input c
+    if a >= b then
+        if a>=c then
+            display a
+        else then
+            display c
+        end if    
+    else if b>=c then
+        display b   
+    else then 
+        display C         
+    end if        
+end

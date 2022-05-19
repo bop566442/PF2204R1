@@ -1,0 +1,11 @@
+.tb1 {
+    width: 50%;
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px black solid;
+    text-align: left;
+    line-height: 40px;
+    padding-left: 10px;
+}
