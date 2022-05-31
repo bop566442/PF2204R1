@@ -1,0 +1,9 @@
+.table2 {
+    border: 1px black solid;
+ }
+ td > .table2 {
+     border: 1px solid black;
+ }
+h1 {
+    text-align: center;
+}
